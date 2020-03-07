@@ -29,10 +29,13 @@ In the command prompt
 In the sqlite3 terminal  
 > .schema  
 > .quit  
+  
+  
+###  Examples of running **select.sql** & **select_advanced.sql**  
 
-###  Examples of running **select.sql** & **select_advanced.sql**
-
-![alt text](metadata/snapshot1.PNG "Example 1")
 From a continual of previous process
 > sqlite3 test.db < select.sql   
 > sqlite3 test.db < select_advanced.sql
+
+![alt text](metadata/snapshot1.PNG "Example 1")
+

@@ -11,12 +11,13 @@ Can be initiated after >>sqlite3 -echo test.db or >>sqlite3
 ### SQLLite3 keywords 
 - **CREATE**: Create operation out of CRUD
 - **DELETE**: Delete operation out of CRUD
-- **SELECT**: Read operation out of CRUD
+- **SELECT**: Read operation out of CRUD  
+- **INSERT INTO**: Put values into table  
 - **DROP TABLE**: Delete an existing table
 
 ### FILES
 - **create.sql**: Showcase CREATE operation
-- **insert.sql**: Showcase INSERT operation
+- **insert.sql**: Showcase INSERT INTO operation
 - **select.sql**: Showcase SELECT operation
 - **select_advanced.sql**: Showcase SELECT operation with more complex operations
 

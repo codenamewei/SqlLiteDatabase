@@ -10,9 +10,9 @@ Can be initiated after >>sqlite3 -echo test.db or >>sqlite3
 
 ### SQLLite3 keywords 
 - **CREATE**: Create operation out of CRUD
+- **INSERT INTO**: Put values into table  
 - **DELETE**: Delete operation out of CRUD
 - **SELECT**: Read operation out of CRUD  
-- **INSERT INTO**: Put values into table  
 - **DROP TABLE**: Delete an existing table
 
 ### FILES
@@ -31,12 +31,13 @@ In the sqlite3 terminal
 > .schema  
 > .quit  
   
-  
+![alt text](metadata/snapshot1.PNG "Example 1")
+
 ###  Examples of running **select.sql** & **select_advanced.sql**  
 
 From a continual of previous process
 > sqlite3 test.db < select.sql   
 > sqlite3 test.db < select_advanced.sql
 
-![alt text](metadata/snapshot1.PNG "Example 1")
+
 

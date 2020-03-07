@@ -1,10 +1,5 @@
 # Trainings on CRUD operations of SQLLite3
 
-### Installation of SQLLite3
-
-Download the precompiled binaries of SQLLite3 dependings on your operation systems
-https://www.sqlite.org/download.html
-
 ### How to create .db from .sql
 - sqlite3 -echo test.db < test.sql
 
@@ -39,5 +34,5 @@ In the sqlite3 terminal
 
 ![alt text](metadata/snapshot1.PNG "Example 1")
 From a continueal of previous process
-> sqlite3 test.db < select.sql
+> sqlite3 test.db < select.sql  
 > sqlite3 test.db < select_advanced.sql

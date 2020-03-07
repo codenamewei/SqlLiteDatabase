@@ -14,6 +14,7 @@ Can be initiated after >>sqlite3 -echo test.db or >>sqlite3
 - **DELETE**: Delete operation out of CRUD
 - **SELECT**: Read operation out of CRUD  
 - **DROP TABLE**: Delete an existing table
+- **PRIMARY KEY**: A field in table that must contains of unique values
 
 ### FILES
 - **create.sql**: Showcase CREATE operation

@@ -40,4 +40,4 @@ In the sqlite3 terminal
 ![alt text](metadata/snapshot1.PNG "Example 1")
 From a continueal of previous process
 > sqlite3 test.db < select.sql
->> sqlite3 test.db < select_advanced.sql
+> sqlite3 test.db < select_advanced.sql

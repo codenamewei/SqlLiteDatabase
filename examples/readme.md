@@ -27,7 +27,7 @@ In the command prompt
 > sqlite3 -echo test.db  
 
 In the sqlite3 terminal  
-> .schema
+> .schema  
 > .quit  
 
 ###  Examples of running **select.sql** & **select_advanced.sql**
@@ -35,4 +35,8 @@ In the sqlite3 terminal
 ![alt text](metadata/snapshot1.PNG "Example 1")
 From a continueal of previous process
 > sqlite3 test.db < select.sql  
+<<<<<<< HEAD
 > sqlite3 test.db < select_advanced.sql
+=======
+> sqlite3 test.db < select_advanced.sql
+>>>>>>> 704aae620d4b8bcc7f0a84814eb62955e4b86496
